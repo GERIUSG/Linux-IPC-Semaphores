@@ -126,13 +126,12 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o 
-![Alt text](../imag/1.png)
+
+![Alt text](1.png)
 
 $ ipcs
 
-![Alt text](../imag/2.png)
-
-
+![Alt text](2.png)
 
 # RESULT:
 The program is executed successfully.
